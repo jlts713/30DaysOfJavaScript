@@ -34,7 +34,7 @@ body, html{
     font-size: 1.5rem;
     font-weight: bold;
     padding: 1rem .5rem;
-    transition: all .07s ease;
+    transition: all .09s ease;
     width: 20%;
     text-align: center;
     color: white;
@@ -43,7 +43,7 @@ body, html{
 }
 
 .playing{
-    transform: scale(1.1);
+    transform: scale(1.05);
     border-color: #225FCC;
     box-shadow: 0 0 1rem #225FCC;
 }
